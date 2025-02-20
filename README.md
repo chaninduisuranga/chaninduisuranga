@@ -97,3 +97,6 @@
 - 🎮 I love gaming!  
 - 📚 I read a lot of books about technology and innovation.
 - 🌍 Always looking to collaborate on new projects and explore new opportunities.
+
+  ![GitHub Snake Animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/snake.svg)
+
