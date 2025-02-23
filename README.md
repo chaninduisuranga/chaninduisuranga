@@ -1,7 +1,10 @@
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width = 250px></p>
+<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Sans-serif&weight=900&size=32&pause=1000&color=000000&center=true&vCenter=true&width=558&height=49&lines /></p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Chanindu+Isuranga" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Chanindu+Isuranga"+ alt="Typing SVG" />
+    </a>
 </h1>
 
 
